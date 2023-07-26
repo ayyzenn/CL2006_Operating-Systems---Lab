@@ -1,0 +1,5 @@
+https://linuxhint.com/linux-exec-system-call/
+
+
+Read and understand the description of all 6 variants of exec call. For each exec function also write a program to describe its working. Also, add 1 line comment with each exec function call summarizing its behavior.
+
