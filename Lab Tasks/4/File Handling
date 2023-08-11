@@ -1,0 +1,5 @@
+Create 2 programs, the 1st program will try to open a file for reading purposes e-g mymessage.txt. If the file exists, the program will read and display its contents but if the file does not exist the program will create a file for reading and write purposes and will assign read, write permissions to users, groups, and others. 
+
+The 2nd program will open the newly created file for a written purpose, will write something in it, and close the file.
+
+Run the 1st program again, so that it can read the message written by the 2nd program.
