@@ -1,0 +1,4 @@
+Write a shell script to create a file with extension .c. Copy contents(c code) from another file to this
+file. Now use if statement to ask user if user enter 1 just compile it. If user enters 2 compile it and run
+it. If user enters 3 just print the contents of the original file. Otherwise print the contents of the current
+directory. Perform the same task using switch inside a function.
